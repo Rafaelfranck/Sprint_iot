@@ -18,7 +18,7 @@ facial-recognition-demo/
 
 Clonar e configurar o ambiente
 bash
-git clone https://github.com/SEU_USUARIO/facial-recognition-demo.git
+git clone https://github.com/Rafaelfranck/Sprint_iot.git
 cd iot_project
 
 ### Criar e ativar ambiente virtual
